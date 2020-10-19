@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, **Hello, nice to meet you** 
+###  👋 **Hello, nice to meet you** 
 #### Welcome to my page!                                                             
 I'm  Mirian Perez
 *Economist at San Cristobal de Huamanga National University*
