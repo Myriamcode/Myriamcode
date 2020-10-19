@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋, **Hello, nice to meet you** ![github](https://w7.pngwing.com/pngs/811/39/png-transparent-todo-econometria-econometrics-research-statistics-autocorrelation-blogger-angle-text-logo.png)
+#### Welcome to my page!                                                             I'm  Mirian Perez
+*Economist at San Cristobal de Huamanga National University*
+*Student intern at  Pontifica Universidad Catolica Del Peru*
+:woman_student:*economics degree*| Behavioral Economics 
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mirian-perez-007a87161/)  
+
