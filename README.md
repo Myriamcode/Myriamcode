@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Myriamcode/Myriamcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, **Hello, nice to meet you** ![github](https://w7.pngwing.com/pngs/811/39/png-transparent-todo-econometria-econometrics-research-statistics-autocorrelation-blogger-angle-text-logo.png)
-#### Welcome to my page!                                                             I'm  Mirian Perez
+#### Welcome to my page!                                                             
+I'm  Mirian Perez
 *Economist at San Cristobal de Huamanga National University*
 *Student intern at  Pontifica Universidad Catolica Del Peru*
 :woman_student:*economics degree*| Behavioral Economics 
-
 - 🔭 I’m currently working on this page. 
 
 
